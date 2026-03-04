@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Read(//c/Users/sonagii/**)",
+      "Skill(explain-code)",
+      "Skill(explain-code:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\sonagii\\AppData\\Roaming\\Code\\User"
+    ]
+  }
+}
