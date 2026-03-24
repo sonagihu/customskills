@@ -2,7 +2,7 @@
  * crud-basic 패턴 템플릿
  *
  * 패턴: DataTable + DetailSheet 슬라이드 패널 (기본 CRUD)
- * 참조: bwg-admin-kit/src/features/service/pages/PrivacyFilterPage.tsx
+ * 참조: admin-kit/src/features/service/pages/PrivacyFilterPage.tsx
  *
  * 사용 방법:
  * - {Name} → PascalCase 이름 (예: Notice)

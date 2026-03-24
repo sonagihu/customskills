@@ -7,7 +7,9 @@
       "Skill(bxca_testcase_gen)",
       "Skill(bxca_testcase_gen:*)",
       "Skill(bxca_junit_tcgen_from_excel)",
-      "Skill(bxca_junit_tcgen_from_excel:*)"
+      "Skill(bxca_junit_tcgen_from_excel:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }

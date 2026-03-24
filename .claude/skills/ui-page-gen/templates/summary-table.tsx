@@ -2,7 +2,7 @@
  * summary-table 패턴 템플릿
  *
  * 패턴: 요약 Card 4개 + 읽기 전용 DataTable + CSV 다운로드
- * 참조: bwg-admin-kit/src/features/log/pages/UsageLogPage.tsx
+ * 참조: admin-kit/src/features/log/pages/UsageLogPage.tsx
  *
  * 사용 시 치환:
  * - {Name} → PascalCase 이름 (예: UsageLog)

@@ -2,7 +2,7 @@
  * crud-nested 패턴 템플릿
  *
  * 패턴: DataTable + DetailSheet (안에 편집 가능한 중첩 DataTable 포함)
- * 참조: bwg-admin-kit/src/features/config/pages/CodeManagementPage.tsx
+ * 참조: admin-kit/src/features/config/pages/CodeManagementPage.tsx
  *
  * 사용 시 치환:
  * - {Name} → PascalCase 이름 (예: Code)

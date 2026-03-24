@@ -1,13 +1,13 @@
 ---
-name: bwg-page-gen
-description: bwg-admin-kit 프로젝트에서 새로운 메뉴와 페이지를 생성합니다. 기술 구조, 스타일, 컴포넌트, 라우팅까지 완전한 feature 모듈을 scaffold합니다.
+name: ui-page-gen
+description: admin-kit 프로젝트에서 새로운 메뉴와 페이지를 생성합니다. 기술 구조, 스타일, 컴포넌트, 라우팅까지 완전한 feature 모듈을 scaffold합니다.
 user-invocable: true
 argument-hint: "<페이지명> [패턴: crud-basic|crud-nested|readonly-detail|summary-table]"
 ---
 
-# bwg-page-gen — bwg-admin-kit 페이지 생성 스킬
+# ui-page-gen — admin-kit 페이지 생성 스킬
 
-이 스킬은 bwg-admin-kit 프로젝트에서 새로운 메뉴 및 Feature 페이지를 생성합니다.
+이 스킬은 admin-kit 프로젝트에서 새로운 메뉴 및 Feature 페이지를 생성합니다.
 **프로젝트를 직접 읽지 않아도** 이 스킬 디렉토리에 포함된 템플릿과 가이드만으로 완전한 페이지를 만들 수 있습니다.
 
 ---

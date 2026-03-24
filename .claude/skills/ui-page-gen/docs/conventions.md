@@ -1,4 +1,4 @@
-# bwg-admin-kit 코드 컨벤션
+# admin-kit 코드 컨벤션
 
 ## Tech Stack
 

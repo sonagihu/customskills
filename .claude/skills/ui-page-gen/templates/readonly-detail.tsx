@@ -2,7 +2,7 @@
  * readonly-detail 패턴 템플릿
  *
  * 패턴: 읽기 전용 DataTable + 행 클릭 시 shadcn Dialog 상세 조회
- * 참조: bwg-admin-kit/src/features/log/pages/AccessLogPage.tsx
+ * 참조: admin-kit/src/features/log/pages/AccessLogPage.tsx
  *
  * 사용 시 치환:
  * - {Name} → PascalCase 이름 (예: AccessLog)
